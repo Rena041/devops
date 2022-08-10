@@ -1,1 +1,2 @@
-# devops
+- In this file, there are 9 tasks.
+-I did them at my Dev/Ops lessons.
